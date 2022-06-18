@@ -10,4 +10,3 @@ public class AppClient {
         new ClientGui(client);
     }
 }
-
